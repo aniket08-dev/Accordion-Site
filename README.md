@@ -1,12 +1,47 @@
-# React + Vite
+# Accordion Website
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+An interactive and responsive accordion component built using HTML, CSS, and JavaScript. This project demonstrates how to show and hide content dynamically, making it ideal for FAQs or content sections.
 
-Currently, two official plugins are available:
+## 🚀 Live Demo
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+👉 aniket-accordion.netlify.app
 
-## Expanding the ESLint configuration
+## ✨ Features
 
-If you are developing a production application, we recommend using TypeScript and enable type-aware lint rules. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+* Expand and collapse sections
+* Smooth UI interaction
+* Clean and minimal design
+* Fully responsive layout
+
+## 🛠️ Tech Stack
+
+* HTML
+* CSS
+* JavaScript
+
+## 📂 Project Setup
+
+1. Clone the repository:
+   git clone https://github.com/your-username/accordion-website.git
+
+2. Open the folder:
+   cd accordion-website
+
+3. Run the project:
+   Open index.html in your browser
+
+## 📸 Use Case
+
+This accordion can be used for:
+
+* FAQ sections
+* Product details
+* Content organization
+
+## 👨‍💻 Author
+
+Aniket Atole
+
+## 📄 License
+
+This project is licensed under the MIT License.
