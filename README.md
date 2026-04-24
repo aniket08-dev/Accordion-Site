@@ -4,7 +4,7 @@ An interactive and responsive accordion component built using HTML, CSS, and Jav
 
 ## 🚀 Live Demo
 
-👉 aniket-accordion.netlify.app
+👉 https://aniket-accordion.netlify.app/
 
 ## ✨ Features
 
