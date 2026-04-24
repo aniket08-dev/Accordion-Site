@@ -22,8 +22,7 @@ An interactive and responsive accordion component built using HTML, CSS, and Jav
 ## 📂 Project Setup
 
 1. Clone the repository:
-   git clone https://github.com/your-username/accordion-website.git
-
+   git clone https://github.com/aniket08-dev/Accordion-Site.git
 2. Open the folder:
    cd accordion-website
 
